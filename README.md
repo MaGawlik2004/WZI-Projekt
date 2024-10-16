@@ -1,6 +1,6 @@
 # WZI-Projekt
 Projekt na zajęcia z współczesnych zastosowań informatyki
 Mateusz Gawlik,
-Antek Gawron,
+Antoni Gawron,
 Sebastian Błaszczyk,
 Jakub Pakuła
