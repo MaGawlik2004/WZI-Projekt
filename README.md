@@ -4,3 +4,4 @@ Mateusz Gawlik,
 Antoni Gawron,
 Sebastian Błaszczyk,
 Jakub Pakuła
+Jan Dudziak
